@@ -1,0 +1,11 @@
+.navbar-brand {
+    font-size: 2em;
+  }
+.chicken{
+  background-color: #BBDDBB;
+}
+  @media (min-width:568px){
+    #collaps_links {
+      visibility: hidden;
+    }
+  }
